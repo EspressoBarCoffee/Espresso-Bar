@@ -1,0 +1,18 @@
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-image: url('photo/image.png');
+    background-size: cover;
+    /* Фиксируем фон, чтобы он не повторялся */
+    background-repeat: no-repeat;
+    background-size: auto 100%; /* Растягиваем изображение по высоте, чтобы оно полностью покрывало высоту экрана */
+    background-position: center;
+}
+
+.background-image {
+
+    width: 1080px;
+    height: 3940px;
+    
+}

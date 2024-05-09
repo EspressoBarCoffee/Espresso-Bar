@@ -2,7 +2,7 @@ body {
     height: 100%;
     margin: 0;
     padding: 0;
-    background-image: url('photo/image.png');
+    background-image: url('image.png');
     background-size: cover;
     /* Фиксируем фон, чтобы он не повторялся */
     background-repeat: no-repeat;
